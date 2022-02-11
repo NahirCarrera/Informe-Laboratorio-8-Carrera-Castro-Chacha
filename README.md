@@ -27,7 +27,9 @@
  * 1 Resistor (2.2 k Ohm)
  * 1 Protoboard
 ## Procedimiento
+    
 1) Implementar el circuito que se muestra en la Figura
+    
 ![image](https://user-images.githubusercontent.com/93786746/153680997-6d055eb4-486c-4feb-a7bf-f8c6854accda.png)
 
 
@@ -36,6 +38,7 @@
 2) Conectar el osciloscopio al resistor de carga RL. Observar la señal que aparece en el osciloscopio
  
 _Ilustración 2. descripción_
+    
 3) Contestar las preguntas 8.1 - 8.6
     
 4) Con el multímetro medir el voltaje de salida en RL
@@ -44,6 +47,7 @@ _Ilustración 3. Medición de _
  
    
 ## Cálculos de Respaldo
+    
   ### 1. Cálculo de
 
   
@@ -73,8 +77,10 @@ _Tabla 8.2 Comprobación den_
 _Tabla 8.3 Cálculo de error _
    
 
-_Tabla 8.4 Cálculo de error _
+_Tabla 8.4 Cálculo de error_
+    
 ## 5. Respuesta a interrogantes
+    
 8.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
     
 
@@ -84,8 +90,11 @@ _Tabla 8.4 Cálculo de error _
 8.3 ¿cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 8.4 ¿Enqué valor está posicionada la perilla de TIME/DIV?
+    
 8.5 ¿Cuál es la amplitud del voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+    
 8.6 ¿Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+    
 8.7 Compare el voltaje medido en el punto 2 y el obtenido en el 4. ¿Coinciden? ¿Por qué?
 
 ## 5. Video
@@ -94,4 +103,5 @@ _Tabla 8.4 Cálculo de error _
   * 
   * 
 ## 7. Bibliografía
+    
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
