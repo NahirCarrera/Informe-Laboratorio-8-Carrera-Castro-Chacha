@@ -36,8 +36,9 @@
 2) Conectar el osciloscopio al resistor de carga RL. Observar la señal que aparece en el osciloscopio
  
 _Ilustración 2. descripción_
+3) Contestar las preguntas 8.1 - 8.6
     
-3) Con el multímetro medir el voltaje de salida en RL
+4) Con el multímetro medir el voltaje de salida en RL
  
 _Ilustración 3. Medición de _
  
@@ -73,12 +74,24 @@ _Tabla 8.3 Cálculo de error _
    
 
 _Tabla 8.4 Cálculo de error _
+## 5. Respuesta a interrogantes
+8.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+    
 
+8.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+
+8.3 ¿cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+8.4 ¿Enqué valor está posicionada la perilla de TIME/DIV?
+8.5 ¿Cuál es la amplitud del voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+8.6 ¿Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+8.7 Compare el voltaje medido en el punto 2 y el obtenido en el 4. ¿Coinciden? ¿Por qué?
 
 ## 5. Video
-  * https://youtu.be/Uim8WV8RkbI
+  * 
 ## 6. Conclusiones
-  * Para concluir, la aplicación del método de Thevenin es muy importante y eficiente, ya que permite reducir circuitos resistivos que pueden llegar a ser muy complejos en circuitos mucho más simples que solo constan de una resistencia, de una fuente de voltaje y del componente a analizar; al ser un circuito más sencillo, el análisis del elemento que se extrajo del circuito original se vuelve más eficiente ya que los cálculos a realizarse son más cortos. Además, pasando a la parte práctica, resulta más sencillo y económico elaborar circuitos resistivos equivalentes que cumplan con las mismas funciones del circuito original.
-  * Para llevar a cabo la aplicación del método de Thévenin se debe tener conocimiento previos con respecto a fundamentos de circuitos, y de conceptos como: voltaje, corriente, resistencia, técnicas de análisis de circuitos, entre otros. Además, saber reconocer y analizar circuitos cuando sus componentes están en serie o están en paralelo, puesto que sin tener estos conocimiento no se puede llevar a cabo el cálculos de voltaje equivalente y resistencia equivalente de Thévenin.
+  * 
+  * 
 ## 7. Bibliografía
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
