@@ -54,7 +54,11 @@ _Ilustración 3. Medición del voltaje con un multímetro en la resistencia de l
     
 _Tabla 8.1 Valores utilizados para la práctica_
     
+![Tabla 8.1](https://user-images.githubusercontent.com/93829962/153726874-147b6b5a-1e13-4806-81ac-21b02a0d5936.png)
+
 _Tabla 8.2 Valores obtenidos con objetos de medición_
+    
+![Tabla 8.2](https://user-images.githubusercontent.com/93829962/153726878-f9153d74-7d7a-4827-b6a0-7b9fad5bed77.png)
 
 ## 5. Respuesta a interrogantes
     
