@@ -15,8 +15,10 @@
   * 
 ## 2. Marco Teórico
   ## <p align=center> Onda senoidal
-
+![onda seno (1)](https://user-images.githubusercontent.com/93786746/153782051-d3490e51-7d96-407d-8aa4-6fa96adb2dc6.png)
+    
   ## <p align=center> Materiales
+![MATERIALES](https://user-images.githubusercontent.com/93786746/153782039-a8817fe4-f0e0-4bad-8060-98c983323629.png)
 
 ## 3. Explicación del Procedimiento
    ## Materiales
