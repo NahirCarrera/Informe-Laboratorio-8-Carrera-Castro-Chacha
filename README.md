@@ -99,7 +99,7 @@ Los valores medidos en las interrogantes mencionadas no coinciden, esto se da po
 ## 5. Video
   * 
 ## 6. Conclusiones
-  * 
+  * El uso del osciloscopio nos permitió realizar un análisis visual muy claro de la variación del voltaje en el circuito propuesto, pues en la representación de la onda nos fue posible observar la amplitud e voltaje en valores pico y analizarla no solo con el valor obtenido sino mediante la observación de los valores de división por cuadro, identificando la perilla VOLTS/DIV que se encontraba en 3 lo que quiso decir que habría 3 volts por cada cuadro de amplitud de la onda en el eje vertical, además nos fue posible analizar dos características fundamentales de las ondas senoidales que son la frecuencia y le periodo. En tanto al periodo, determinamos el tiempo en el que la onda completa un ciclo observando la perilla TIME/DIV y concluyendo que transcurría 0.1 milisegundos por cada cuadro que recorra la onda en el eje horizontal hasta completar un ciclo, con ese valor obtenido llegamos a la conclusión de que el periodo es de 0.4 milisegundos, finalmente para la frecuencia se encontró el recíproco del periodo y se obtiene un valor de frecuencia igual a la especificada en el generador de señales.
   * 
 ## 7. Bibliografía
     
