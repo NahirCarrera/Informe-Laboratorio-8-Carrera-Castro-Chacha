@@ -10,9 +10,9 @@
   ### General: 
   * Determinar experimentalmente las características de las señales senoidales.
   ### Específicos
-  * 
-  *
-  * 
+  * Analizar los conceptos básicos de una onda senoidal, para interpretar mejor algunos valores como la frecuencia o el periodo y su relación con el voltaje y frecuencia. 
+  * Utilizar el simulador Dcaclab y sus herramientas de medición para llevar a cabo la siguiente práctica esperando obtener resultados más precisos que permitan elaborar conclusiones donde se expongan de mejor forma los datos obtenidos durante la experimentación. 
+  * Elaborar un archivo audiovisual donde se muestre cómo se realizó la práctica y la participación de todos los miembros del equipo de trabajo
 ## 2. Marco Teórico
   ## <p align=center> Onda senoidal
 ![onda seno (1)](https://user-images.githubusercontent.com/93786746/153782051-d3490e51-7d96-407d-8aa4-6fa96adb2dc6.png)
